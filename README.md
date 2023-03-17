@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arutha-26
-- 👀 I’m interested in Website also Design
-- 🌱 I’m currently learning Front-end and some Design
+- 👀 I’m interested in Website, Mobile App also Design
+- 🌱 I’m currently learning Front-end, Mobile Application Developer using Kotlin and some Design
 - 💞️ I’m looking to collaborate on anyone who can share their exeperience 
 - 📫 How to reach me ?? 
 
