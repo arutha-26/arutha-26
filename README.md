@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @arutha-26
-- 👀 I’m interested in Website, Mobile App also Design
-- 🌱 I’m currently learning Front-end, Mobile Application Developer using Kotlin and some Design
-- 💞️ I’m looking to collaborate on anyone who can share their exeperience 
-- 📫 How to reach me ?? 
+# Selamat Datang di Repositori Arutha 🚀
 
-<!---
-arutha-26/arutha-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Halo! Aku Arutha, seorang front-end web developer yang penuh semangat untuk menciptakan pengalaman digital yang memukau. 🌟 Saat ini, aku telah menguasai HTML, CSS, dan Bootstrap untuk menciptakan tampilan web yang menawan.
+
+## Keahlian 👨‍💻
+- **Front-End:** HTML, CSS, Bootstrap
+- **Mobile App Dev:** Kotlin, Flutter (sedang dalam pengembangan intensif! 🚀)
+- **UI/UX Design:** Memberikan sentuhan artistik pada setiap proyek.
+- **Live Streaming:** Menyebarkan kreativitas secara langsung!
+
+## Sedang Fokus 🎯
+Saat ini, aku sedang fokus untuk mendalami mobile app development menggunakan Flutter. Terobsesi dengan ide-ide kreatif dan antusias untuk mewujudkannya dalam bentuk aplikasi yang indah dan berfungsi.
+
+## Tentang Saya 🧑
+Saya adalah penggemar berat We Bare Bears, terutama karakter Icy Bear. ❄️ Aku percaya bahwa keseimbangan antara pekerjaan dan hiburan sangat penting, dan karakter Icy Bear selalu memberikan inspirasi dengan sikap santainya.
+
+## Cara Terbaik Menghubungi Saya 📫
+Jika kamu memiliki pertanyaan, ide kolaborasi, atau sekadar ingin berbicara tentang We Bare Bears, jangan ragu untuk menghubungi saya:
+- Email: arutha.dev@gmail.com
+- LinkedIn: [linkedin.com/in/arutha](https://www.linkedin.com/in/arutha)
+- Twitter: [@arutha_dev](https://twitter.com/arutha_dev)
+
+## Proyek Terkini 🚀
+Saya selalu aktif di dunia pengembangan. Cek proyek-proyek terbaru saya di repositori ini. 🌐
+
+## Dukungan 💖
+Jika Anda menemukan proyek-proyek saya berguna, pertimbangkan untuk memberi dukungan dengan memberikan bintang 🌟 pada repositori ini!
+
+Terima kasih telah mengunjungi profil saya. Mari bersama-sama menciptakan dunia digital yang lebih indah! 🚀✨
