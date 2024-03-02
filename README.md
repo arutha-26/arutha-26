@@ -15,10 +15,9 @@ Saat ini, aku sedang fokus untuk mendalami mobile app development menggunakan Fl
 Saya adalah penggemar berat We Bare Bears, terutama karakter Icy Bear. ❄️ Aku percaya bahwa keseimbangan antara pekerjaan dan hiburan sangat penting, dan karakter Icy Bear selalu memberikan inspirasi dengan sikap santainya.
 
 ## Cara Terbaik Menghubungi Saya 📫
-Jika kamu memiliki pertanyaan, ide kolaborasi, atau sekadar ingin berbicara tentang We Bare Bears, jangan ragu untuk menghubungi saya:
-- Email: arutha.dev@gmail.com
-- LinkedIn: [linkedin.com/in/arutha](https://www.linkedin.com/in/arutha)
-- Twitter: [@arutha_dev](https://twitter.com/arutha_dev)
+Jika kamu memiliki pertanyaan, ide kolaborasi, atau sekedar ingin berbicara tentang We Bare Bears, jangan ragu untuk menghubungi saya:
+- Email: Kt.widiartawan26@gmail.com
+- LinkedIn: [linkedin.com/in/arutha]([https://www.linkedin.com/in/arutha](https://www.linkedin.com/in/ketut-widi-artawan02/))
 
 ## Proyek Terkini 🚀
 Saya selalu aktif di dunia pengembangan. Cek proyek-proyek terbaru saya di repositori ini. 🌐
