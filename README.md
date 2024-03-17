@@ -17,7 +17,7 @@ Saya adalah penggemar berat We Bare Bears, terutama karakter Icy Bear. ❄️ Ak
 ## Cara Terbaik Menghubungi Saya 📫
 Jika kamu memiliki pertanyaan, ide kolaborasi, atau sekedar ingin berbicara tentang We Bare Bears, jangan ragu untuk menghubungi saya:
 - Email: Kt.widiartawan26@gmail.com
-- LinkedIn: [linkedin.com/in/arutha]([https://www.linkedin.com/in/arutha](https://www.linkedin.com/in/ketut-widi-artawan02/))
+- LinkedIn: [linkedin.com/in/arutha](www.linkedin.com/in/ketut-widi-artawan02)
 
 ## Proyek Terkini 🚀
 Saya selalu aktif di dunia pengembangan. Cek proyek-proyek terbaru saya di repositori ini. 🌐
