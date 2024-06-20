@@ -1,6 +1,6 @@
-# Selamat Datang di Repositori Arutha 🚀
+# Selamat Datang di Repositori Widi 🚀
 
-Halo! Aku Arutha, seorang front-end web developer yang penuh semangat untuk menciptakan pengalaman digital yang memukau. 🌟 Saat ini, aku telah menguasai HTML, CSS, dan Bootstrap untuk menciptakan tampilan web yang menawan.
+Halo! Aku Widi, seorang front-end web developer yang penuh semangat untuk menciptakan pengalaman digital yang memukau. 🌟 Saat ini, aku telah menguasai HTML, CSS, dan Bootstrap untuk menciptakan tampilan web yang menawan.
 
 ## Keahlian 👨‍💻
 - **Front-End:** HTML, CSS, Bootstrap
