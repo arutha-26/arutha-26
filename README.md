@@ -1,4 +1,4 @@
-# Widi
+# Arutha
 
 Frontend-focused developer with an interest in building clean, functional, and maintainable digital experiences.
 
